@@ -11,3 +11,5 @@ Code for process automation. on a daily basis companies, it is very common that 
 # Question:
 
 - For this project we will be using selenium and you need to download the webdriver, don't forget to put it in the same folder as your python code file.
+
+- This project has deprecated code snippets and will be updated as soon as possible.
